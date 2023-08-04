@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\StackCode\StackCode\bin\Debug\StackCode.exe.config
+C:\Users\Nimap\source\repos\StackCode\StackCode\bin\Debug\StackCode.exe
+C:\Users\Nimap\source\repos\StackCode\StackCode\bin\Debug\StackCode.pdb
+C:\Users\Nimap\source\repos\StackCode\StackCode\obj\Debug\StackCode.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\StackCode\StackCode\obj\Debug\StackCode.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\StackCode\StackCode\obj\Debug\StackCode.exe
+C:\Users\Nimap\source\repos\StackCode\StackCode\obj\Debug\StackCode.pdb

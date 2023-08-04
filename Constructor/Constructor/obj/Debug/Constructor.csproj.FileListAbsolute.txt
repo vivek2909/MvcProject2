@@ -1,0 +1,8 @@
+C:\Users\Nimap\source\repos\Constructor\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\Nimap\source\repos\Constructor\Constructor\bin\Debug\Constructor.exe
+C:\Users\Nimap\source\repos\Constructor\Constructor\bin\Debug\Constructor.pdb
+C:\Users\Nimap\source\repos\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Constructor\Constructor\obj\Debug\Constructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nimap\source\repos\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Constructor\Constructor\obj\Debug\Constructor.exe
+C:\Users\Nimap\source\repos\Constructor\Constructor\obj\Debug\Constructor.pdb
